@@ -1,6 +1,5 @@
 [ ] finish going through LinkedIn Learning course on git
-[x] create git-basics repository
-[x] upload my first file to the repo
-[ ] do some other stuff
-[ ] take the dog for a walk
+[ ] do some other ...
+[x] take the dog for a walk
 [ ] have dinner
+[ ] go to sleep
