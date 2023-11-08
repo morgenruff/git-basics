@@ -1,0 +1,4 @@
+[ ] finish going through LinkedIn Learning course on git
+[ ] create git-basics repository
+[ ] upload my first file to the repo
+[ ] do some other stuff
