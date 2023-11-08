@@ -1,0 +1,4 @@
+1. it feels robust in a way that cloud sync services don't
+2. I feel in control
+3. the aesthetics are nice
+4. working in the command line is a fun challenge
